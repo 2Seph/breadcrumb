@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>note</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Lucida+Sans+Unicode&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -16,9 +16,8 @@
     </div>
 
     <div id="content">
-        welcome! 
-        <img src="https://i.pinimg.com/736x/f2/3a/1f/f23a1f4d42cc82c7fa3da68c422526f0.jpg">
-        this is an extremely simple online commonplace-diary thing. enjoy!!
+        
+        
     </div>
 
 
