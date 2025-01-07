@@ -1,6 +1,7 @@
 
 * {
     font-size:15px;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'GNU Unifont', Verdana, Helvetica; 
 }
 
 body {
@@ -10,7 +11,6 @@ body {
 
 header {
     position:Fixed;
-    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'GNU Unifont', Verdana, Helvetica; 
     top:0;
     width:100%;
     display:flex;
