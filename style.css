@@ -1,0 +1,7 @@
+header {
+    position:Fixed;
+    top:0;
+    width:100%;
+    display:flex;
+    gap:20px;
+}
